@@ -1,3 +1,9 @@
 body {
     background-color: #d8f4ff;
   }
+
+.text{
+    text-align:  center;
+   font-family: Arial, "Arial Black", Arial, Verdana, sans-serif;
+   font-weight: bold;
+}
